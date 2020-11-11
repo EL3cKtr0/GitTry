@@ -1,0 +1,23 @@
+Per prima cosa ho creato la repo su github con subito il file .gitignore, successivamente ho scaricato il software 
+gitkraken e gitbash che mi permette di avere la maggior parte delle funzionalità di git a portata di mano
+che mi ha fatto in automatico il commit iniziale per poter lavorare sulla repo
+e successivamente ho aperto la repo su pycharm e creato un paio di file.
+
+Da gitkraken ho provato a creare vari branch e creare dei file appositi per quei branch per poi unirli al master.
+
+Ho scoperto che con checkout si passa da un branch all'altro ma gitkraken lo fa fare tramite video e non terminale.
+
+Merge vs Rebasing
+Il rebasing riscrivere la cronologia di un progetto generando dei commit per ciascun committ effettuato
+Squash "racchiude" più commits in uno.
+Andando a fare esperimenti di merge e rebase il primo branch creato è diventato di default su git.
+
+Per quanto riguarda gli hard/soft reset ho capito che la differenza principale è che nel soft reset
+si va a fare un uncommit mentre nell'hard reset ci sono 2 fasi in più e cioè unstage e delete.
+
+Per quanto riguarda i log gitkraken ha un proprio activity log in cui è possibile vedere ciò che è stato fatto, inoltre
+da gitbash, scrivendo git log ho visto tutti i commit fatti da me, l'ora e il giorno.
+
+Invece switch ti permette di cambiare branch mentre checkout puoi arrivare anche ad uno specifico commit.
+
+Infine ho creato un gist segreto su github con un semplice file di testo e ho visto a che cosa servivano i tag.

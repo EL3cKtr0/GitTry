@@ -21,3 +21,6 @@ da gitbash, scrivendo git log ho visto tutti i commit fatti da me, l'ora e il gi
 Invece switch ti permette di cambiare branch mentre checkout puoi arrivare anche ad uno specifico commit.
 
 Infine ho creato un gist segreto su github con un semplice file di testo e ho visto a che cosa servivano i tag.
+
+Creando in automatico il file requirements.txt (si può fare tranquillamente con un comando da terminale) git non lo
+riconosce come file e non me lo fa pushare
